@@ -1,0 +1,16 @@
+OFB scheme is similar with CFB, but every text block in OFB scheme is independent from previous.
+That's why if one bit of the transfered message will be corrupted, it will damage only the current block.
+OFB scheme is similar with CFB, but every text block in OFB scheme is independent from previous.
+That's why if one bit of the transfered message will be corrupted, it will damage only the current block.
+OFB scheme is similar with CFB, but every text block in OFB scheme is independent from previous.
+That's why if one bit of the transfered message will be corrupted, it will damage only the current block.
+OFB scheme is similar with CFB, but every text block in OFB scheme is independent from previous.
+That's why if one bit of the transfered message will be corrupted, it will damage only the current block.
+OFB scheme is similar with CFB, but every text block in OFB scheme is independent from previous.
+That's why if one bit of the transfered message will be corrupted, it will damage only the current block.
+OFB scheme is similar with CFB, but every text block in OFB scheme is independent from previous.
+That's why if one bit of the transfered message will be corrupted, it will damage only the current block.
+OFB scheme is similar with CFB, but every text block in OFB scheme is independent from previous.
+That's why if one bit of the transfered message will be corrupted, it will damage only the current block.
+OFB scheme is similar with CFB, but every text block in OFB scheme is independent from previous.
+That's why if one bit of the transfered message will be corrupted, it will damage only the current block.
